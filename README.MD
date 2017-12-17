@@ -1,6 +1,7 @@
 # Oscilloscope as Display
 
-Check out my YouTube video for this projects
+Check out my YouTube video for this project:
+https://youtu.be/T_n8PtMMLiQ
 
 and the project page for the details
 http://bitluni.net/oscilloscope-as-display/
