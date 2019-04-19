@@ -29,7 +29,7 @@ const int D3 = 15;
 const int D4 = 14;
 const int D5 = 13;
 const int D6 = 12;
-const int D7 = 4;;
+const int D7 = 4;
 
 const int TFT_DC = 2;
 const int TFT_CS = 5;
